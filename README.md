@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:26.09.2025
+# Date:28clear.09.2025
 ## Register Number:25017585
 ## Name:Samantha Shree S.V
 ## Problem Title
@@ -64,7 +64,7 @@ Agriculture, FoodTech & Rural Development
 </ul>
 <br>
 <br>
-<h3 textcolor="red">Innovation and uniqueness of the solution <h3>
+<h2>Innovation and uniqueness of the solution</h2>
 <ul>
 <li>Combines AI + IoT + localized language support.</li>
 
@@ -80,10 +80,7 @@ Agriculture, FoodTech & Rural Development
 </ul>
 
 
-
-
-## Technical Approach
-<h2 textcolor="red"> Technologies to be used:</h2>
+<h2> Technologies to be used:</h2>
 <ul>
 <li>Programming Languages & Frameworks: Python (AI/ML models), Django/Flask (backend), React Native/Flutter (mobile app).</li>
 
