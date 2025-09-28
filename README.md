@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:28clear.09.2025
+# Date:28.09.2025
 ## Register Number:25017585
 ## Name:Samantha Shree S.V
 ## Problem Title
@@ -114,7 +114,6 @@ Deployment & Feedback Loop – Continuous improvement based feedbacks from the f
 
 </ul>
 <br>
-<br>
 <h2 textcolor="red">Feasibility :</h2>
 <ul>
 
@@ -129,7 +128,6 @@ Deployment & Feedback Loop – Continuous improvement based feedbacks from the f
  <li>Adoption: Partner with NGOs and extension officers for onboarding.</li>
  </ul>
  
-
 
 <h2 textcolor="red"> Impact and Benefits</h2>
 <ul>
