@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:26.09.2025
+## Register Number:25017585
+## Name:Samantha Shree S.V
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,111 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+
+<ul><li>Crop planning system.</li>
+<li>Push notification.</li>
+<li>Market access for selling and purchasing.</li>
+<li>Offline capabilities.</li>
+<li>Weather forcasting </li>
+<li>AI based app with chatbot.</li>
+<li>A multilingual app.</li>
+</ul>
+<br>
+<br>
+<h3>HOW IT ADDRESSES THE PROBLEM</h3>
+<ul>
+<li>Crop planning system - Most of the farmers does't have more knowledge about timely farming .so crop planning can help the farmers about what to plant in a particular season.</li>
+<li>Push notification- To provide the notification about the upcoming tasks, available govt schemes , weather forcasts,etc,.</li>
+<li>Market access foe selling and purchasing - To provide knowledge about the market condition about available seeds,fertilisers,pesticides,etc, to purchase. To provide information about the real time market price for selling the goods. </li>
+<li>Offline capabilities - To use the app in deep area where there is no enough network facilities.</li>
+<li>Weather forcasting - To provide timely awarness about the weather condition .</li>
+<li> Ai based app with chatbot- Abilites to the farmers to use the app efficiently for getting fast response about thier doubts.</li>
+<li>Multilingual app - to make the farmers to access the app actively from their own language.</li>
+</ul>
+<br>
+<br>
+<h3 textcolor="red">Innovation and uniqueness of the solution <h3>
+<ul>
+<li>Combines AI + IoT + localized language support.</li>
+
+<li>Focuses on ease of use for low-literate farmers through voice-based interaction.</li>
+
+<li>Integrates image-based diagnosis for pests and diseases.</li>
+
+<li>Uses predictive analytics for weather-based alerts.</li>
+
+<li>Integrates market data and soil health metrics for holistic advisory</li>
+
+<li> Designed for offline-first usage in low-connectivity areas</li>
+</ul>
+
+
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<h2 textcolor="red"> Technologies to be used:</h2>
+<ul>
+<li>Programming Languages & Frameworks: Python (AI/ML models), Django/Flask (backend), React Native/Flutter (mobile app).</li>
 
-## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<li>AI/ML: TensorFlow/PyTorch for pest detection & crop recommendation models.</li>
 
-## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<li>APIs: Weather APIs, government soil databases, market price APIs.</li>
 
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<li>Databases: PostgreSQL/MySQL with spatial data support.</li>
+
+<li>IoT/Hardware (Optional Extension): Soil health sensors for live data collection.</li>
+
+<li>Frontend: Flutter (multilingual UI, voice support)</li>
+
+<li>Backend: Node.js/Django (API orchestration, user management)</li>
+</ul>
+<h2 textcolor="red">Methodology and process of implementation: </h2>
+<ul>
+<li> Analysis the needs–Identify farmer needs, target regions, and languages.</li>
+
+Data Collection – Gather information about soil, weather, pest, and crop .</li>
+
+ Developmented models – Train AI/ML models for crop recommendation & pest detection.</li>
+
+App Development – Build a cross-platform mobile application with chatbot .</li>
+
+Integration – Link APIs for weather, soil, and market price updates.</li>
+
+Examining – Pilot testing with farmers in required regions.</li>
+
+Deployment & Feedback Loop – Continuous improvement based feedbacks from the farmers  .</li>
+
+</ul>
+<br>
+<br>
+<h2 textcolor="red">Feasibility :</h2>
+<ul>
+
+<li>Uses proven tech stacks and open datasets .</li>
+<li> Modular architecture for easy scaling and updates .</li>
+<li> Can be piloted in one district and scaled nationwide .</li>
+</ul>
+<h2 textcolor="red">Challenges:</h2>
+<ul>
+ <li>Connectivity: Offline-first design with periodic sync.</li>
+ <li>Language: NLP models trained on regional dialects.</li>
+ <li>Adoption: Partner with NGOs and extension officers for onboarding.</li>
+ </ul>
+ 
+
+
+<h2 textcolor="red"> Impact and Benefits</h2>
+<ul>
+ <li>Empowers farmers with scientific decision-making.</li>
+ <li>Reduces input costs, increases yield and income.</li>
+ <li>Promotes sustainable farming and reduces chemical overuse.</li>
+ </ul>
+
+<br>
+<h2 textcolor="red">Reference</h2>
+<ul>
+<li>https://www.worldbank.org/en/news/feature/2012/05/17/india-agriculture-issues-priorities</li>
+<li>https://shriramfarmsolutions.com/blog/the-major-challenges-indian-farmers-face-today-and-how-to-address-them/</li>
+<li>https://www.appventurez.com/blog/how-to-build-an-agriculture-app</li>
+<li>https://www.cropin.com/blogs/farming-apps/</li>
+</ul>
