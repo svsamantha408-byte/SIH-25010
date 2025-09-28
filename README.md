@@ -42,7 +42,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 
-<img scr="![alt text](agri.png)" height="500" width="800">
+<img scr="agri.png" height="500" width="800">
 
 <ul><li>Crop planning system.</li>
 <li>Push notification.</li>
