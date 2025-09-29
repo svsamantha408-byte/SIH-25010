@@ -42,7 +42,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 
-<img src="![alt text](agri.png)>
+"![alt text](agri.png)
 
 <ul><li>Crop planning system.</li>
 <li>Push notification.</li>
@@ -102,17 +102,17 @@ Agriculture, FoodTech & Rural Development
 <ul>
 <li> Analysis the needs–Identify farmer needs, target regions, and languages.</li>
 
-Data Collection – Gather information about soil, weather, pest, and crop .</li>
+<li>Data Collection – Gather information about soil, weather, pest, and crop .</li>
 
- Developmented models – Train AI/ML models for crop recommendation & pest detection.</li>
+ <li>Developmented models – Train AI/ML models for crop recommendation & pest detection.</li>
 
-App Development – Build a cross-platform mobile application with chatbot .</li>
+<li>App Development – Build a cross-platform mobile application with chatbot .</li>
 
-Integration – Link APIs for weather, soil, and market price updates.</li>
+<li>Integration – Link APIs for weather, soil, and market price updates.</li>
 
-Examining – Pilot testing with farmers in required regions.</li>
+<li>Examining – Pilot testing with farmers in required regions.</li>
 
-Deployment & Feedback Loop – Continuous improvement based feedbacks from the farmers  .</li>
+<li>Deployment & Feedback Loop – Continuous improvement based feedbacks from the farmers  .</li>
 
 </ul>
 <br>
