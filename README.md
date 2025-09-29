@@ -42,7 +42,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 
-"![alt text](agri.png)
+![alt text](agri.png)
 
 <ul><li>Crop planning system.</li>
 <li>Push notification.</li>
